@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Открыть: http://localhost:3000
+Открыть: http://localhost:3301
 
 ## Стек
 
